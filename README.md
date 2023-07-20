@@ -1,4 +1,5 @@
 # 💫 Sobre mim:
+Hello world!! Meu nome é Luiz Davi sou desenvolvedor Full Stack, seja bem vindo ao meu Github!!
 -👨‍💻 Desenvolvedor web FullStack<br>- 📚 Estou aprendendo React<br>- 🎯 Tenho interesse: Javascritp,TypeScrip, CSS, HTML, React, Nodejs, SQL<br>- 🦊 Gosto de animes e Tecnologia
 
 
