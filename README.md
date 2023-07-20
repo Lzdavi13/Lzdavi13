@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
--👨‍💻 Desenvolvedor web FullStack<br>- 📚 Estou aprendendo DOM<br>- 🎯 Tenho interesse: Javascritp,TypeScrip, CSS, HTML, React, Nodejs, SQL<br>- 🦊 Gosto de animes e Tecnologia
+-👨‍💻 Desenvolvedor web FullStack<br>- 📚 Estou aprendendo React<br>- 🎯 Tenho interesse: Javascritp,TypeScrip, CSS, HTML, React, Nodejs, SQL<br>- 🦊 Gosto de animes e Tecnologia
 
 
 ## 🌐 Redes Socials:
